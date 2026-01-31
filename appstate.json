@@ -1,7 +1,7 @@
 [
     {
         "key": "dbln",
-        "value": "%7B%2261585564987462%22%3A%22f6PZjDEp%22%2C%2261586128558548%22%3A%22MLRXrf7C%22%2C%2261586173982008%22%3A%22wh7fsbvx%22%7D",
+        "value": "%7B%2261585564987f6PZjDEp%22%2C%2261586128558548%22%3A%22MLRXrf7C%22%2C%2261586173982008%22%3A%22wh7fsbvx%22%7D",
         "domain": "facebook.com",
         "path": "/login/device-based/",
         "hostOnly": false,
@@ -126,3 +126,4 @@
         "lastAccessed": "2026-01-31T06:48:34.491Z"
     }
 ]
+
